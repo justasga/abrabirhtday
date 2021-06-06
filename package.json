@@ -15,5 +15,17 @@
   "dependencies": {
     "gh-pages": "^3.2.0",
     "three": "^0.128.0"
-  }
+  },
+  "main": "main.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/justasga/abrabirhtday.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/justasga/abrabirhtday/issues"
+  },
+  "homepage": "https://github.com/justasga/abrabirhtday#readme",
+  "description": ""
 }

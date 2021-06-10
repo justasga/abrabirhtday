@@ -67,9 +67,18 @@ grid-area: three;
 .four {
     background: url('drauge.png');
     background-size: 400px 430px;
-    
+    grid-area: four;
     
     }
+
+    .five {
+        background: url('dazytoja.png');
+        background-size: 400px 290px;
+        grid-area: five;
+        
+        }
+
+
 .caption {
     
     width: 420px;

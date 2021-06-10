@@ -1,4 +1,4 @@
-import './style.css';
+// import 'css/style.css';
  // import * as THREE from 'three';
 
 import * as THREE from  'https://unpkg.com/three/build/three.module.js' 

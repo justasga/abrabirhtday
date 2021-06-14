@@ -11,11 +11,11 @@ Features:
   -painting gallery made with fancybox
   
  ### Install
- 
+ ```
  git clone <this-repo>
 npm install
 npm run dev
   
-  
+  ```
 
 

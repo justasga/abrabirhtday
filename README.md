@@ -4,13 +4,13 @@
 
 ## project for my friend. not serious.
 
-Features:
+####Features:
 
-  -Three.js with scrolling animations
-  -Number counter and auto music with javascript
-  -painting gallery made with fancybox
+  - Three.js with scrolling animations
+  - Number counter and auto music with javascript
+  - painting gallery made with fancybox
   
- ### Install
+ #### Install
  ```
  git clone <this-repo>
 npm install
